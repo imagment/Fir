@@ -5,20 +5,21 @@ Welcome to Fir 0.8.5 Beta, developed by Imagment Studios and open-sourced for yo
 Upcoming Updates:
 
 0.9.0:
-Blindfold Mode
-Claiming a Draw / Rules about Draws
-General Clean-Up
+Blindfold Mode,
+Claiming a Draw / Rules about Draws,
+General Clean-Up,
 
 1.0.0:
-Team-Based Game Modes
+Team-Based Game Modes,
 
 1.5.0:
-More Modifiers
-Selection of Minor Rules
+More Modifiers,
+Selection of Minor Rules,
 
 2.0.0:
-Even More Modifiers!
-Badges!
+Even More Modifiers!,
+Badges!,
+
 How to Control:
 
 Movement: Use W, A, S, D to move the pointer (the white icon).
