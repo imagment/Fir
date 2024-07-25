@@ -6,8 +6,8 @@ Upcoming Updates:
 
 0.9.0:
 Blindfold Mode,
-Claiming a Draw / Rules about Draws,
 General Clean-Up,
+Secret Updates,
 
 1.0.0:
 Team-Based Game Modes,
